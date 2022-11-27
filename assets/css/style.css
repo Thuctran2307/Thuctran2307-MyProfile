@@ -917,8 +917,8 @@ img[alt="hero"] {
   .about_image img {
     width: 100%;
     position: relative;
-    margin-bottom: 14px;
-    
+    margin-bottom: 5px;
+    right: 30px;
   }
   .about_image .about_shape {
     width: 404px;
